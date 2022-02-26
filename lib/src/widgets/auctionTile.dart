@@ -25,14 +25,3 @@ auctionTile(BuildContext context, AuctionItemPreview auctionItemPreview) {
   );
 }
 
-// children: <Widget>[
-//         new Container (
-//             decoration: new BoxDecoration (
-//                 color: Colors.red
-//             ),
-//             child: new ListTile (
-//                 leading: const Icon(Icons.euro_symbol),
-//                 title: Text('250,00')
-//             )
-//         )
-//     ]
