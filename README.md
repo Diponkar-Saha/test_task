@@ -1,16 +1,10 @@
-# test_task
+I faced some challenges and solve them so I learned a lot. That is:
 
-A new Flutter project.
+1)In step1 when I connect the project with firebase then it has some issues with compiling. I searched it in google then find that minSDK version must be changed to 21 in build. Gradle to solve. In step2 there is nothing that went challenging. In step3 some features are challenging to me.
 
-## Getting Started
+2) Another problem was widget overflow. I solved it by adjusting the height and width. But I hope the UI works perfectly for all devices.
 
-This project is a starting point for a Flutter application.
+3)And finally  I create the apk.
+In this project, StackOverflow, Medium, and Flutter documentation helped me a lot.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks
